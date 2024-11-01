@@ -7,8 +7,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-main-s877AY5998)
+- Live Site URL: [GitHub](https://kalebemax.github.io/stats-preview-card-component-main/)
 
 
 
